@@ -1,4 +1,4 @@
-package com.design.patterns.creational.factory.method;
+package com.design.patterns.creational.factoryMethod;
 
 public class Bicycle implements Vehicle {
 
