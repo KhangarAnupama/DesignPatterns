@@ -1,6 +1,6 @@
 package com.design.patterns.creational.buildFactory;
 
-public class TestMealnItems {
+public class TestBuildFactory {
 	
 	public static void main(String[] args) {
 		System.out.println("-------------------------------- VEG MEAL ----------------------------");
