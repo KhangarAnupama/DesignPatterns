@@ -1,5 +1,10 @@
-package com.design.patterns.creational.buildFactory;
+package com.design.patterns.creational.builderFactory;
 
+/**
+ * Refered https://www.tutorialspoint.com/design_pattern/builder_pattern.htm
+ * @author Anupama Khangar
+ *
+ */
 public class TestBuildFactory {
 	
 	public static void main(String[] args) {

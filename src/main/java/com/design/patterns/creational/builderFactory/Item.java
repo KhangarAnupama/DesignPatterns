@@ -1,4 +1,4 @@
-package com.design.patterns.creational.buildFactory;
+package com.design.patterns.creational.builderFactory;
 
 public interface Item {
 	
